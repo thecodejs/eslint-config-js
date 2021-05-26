@@ -1,6 +1,6 @@
 {
   "name": "@thecodejs/eslint-config-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Standard ESlint rules for JavaScript project",
   "main": "index.js",
   "scripts": {},
@@ -19,7 +19,6 @@
     "@babel/eslint-parser": "^7.14.3",
     "@thecodejs/eslint-rules": "0.0.2",
     "eslint": "^7.27.0",
-    "eslint-import-resolver-typescript": "^2.4.0",
     "eslint-plugin-babel": "^5.3.1",
     "eslint-plugin-import": "^2.23.3",
     "eslint-plugin-jsx-a11y": "^6.4.1"
